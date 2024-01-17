@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuajdidnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="mmuajdidnaeem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmuajdidnaeem" alt="mmuajdidnaeem" /></a> </p>
-
 - 🔭 I’m currently working on [flutter_dev_kit](https://github.com/mmujadidnaeem/flutter_dev_kit.git)
 
 - 💬 Ask me about **App**
@@ -22,9 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mmujadidnaeem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmujadidnaeem" /></a><a href="https://ko-fi.com/mmujadidnaeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mmujadidnaeem" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmuajdidnaeem&show_icons=true&locale=en&layout=compact" alt="mmuajdidnaeem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuajdidnaeem&show_icons=true&locale=en" alt="mmuajdidnaeem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuajdidnaeem&" alt="mmuajdidnaeem" /></p>
