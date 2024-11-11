@@ -23,8 +23,12 @@ I am a passionate Full Stack Mobile App Developer with a twist. Not only can I c
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### Badges
 
-<a href="http://www.github.com/mmujadidnaeem"><img src="https://github-readme-stats.vercel.app/api?username=mmujadidnaeem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mmujadidnaeem's GitHub stats" /></a>
+<a href="http://www.github.com/mmujadidnaeem">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmujadidnaeem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mmujadidnaeem's GitHub stats" style="max-width: 49%; display: inline-block; margin-right: 1%;">
+</a>
 
-<a href="http://www.github.com/mmujadidnaeem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmujadidnaeem&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mmujadidnaeem">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmujadidnaeem&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="max-width: 49%; display: inline-block;">
+</a>
