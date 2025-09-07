@@ -1,6 +1,12 @@
-# Muajdid Naeem
+<!-- Profile README for Muajdid Naeem -->
 
-### Founder of Kairosys • Creator of Pubx.dev
+<!-- Profile Header -->
+<h1 align="left">
+  Muajdid Naeem
+</h1>
+<h3 align="left">
+  Founder of Kairosys &nbsp;•&nbsp; Creator of Pubx.dev
+</h3>
 
 ---
 
@@ -12,7 +18,7 @@ With a solid background in software engineering, I deliver complete solutions: a
 
 ---
 
-## What I Do
+## 🛠️ What I Do
 
 - **Mobile & Web App Development:** Flutter, React Native, iOS/Android, modern web frameworks
 - **Backend Engineering:** Node.js, Go, Django, Laravel, RESTful and GraphQL APIs
@@ -22,7 +28,7 @@ With a solid background in software engineering, I deliver complete solutions: a
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
 - **Enterprise Publishing Platform:** Architected and delivered a next-generation platform enabling content creators and businesses to publish, manage, and analyze digital content at scale.
 - **Cloud-Ready Microservices Backend:** Designed robust, scalable backend systems using modern frameworks and cloud-native technologies, supporting secure APIs and real-time features.
@@ -30,11 +36,11 @@ With a solid background in software engineering, I deliver complete solutions: a
 - **Developer Community & Mentorship:** Led workshops, code reviews, and mentorship programs to empower the next generation of developers.
 - **End-to-End Product Delivery:** Successfully managed and delivered several client and internal projects from ideation to deployment, including business automation and real-time solutions.
 
-*Note: Detailed case studies and code samples available upon request due to client confidentiality and private repositories.*
+<sub>*Detailed case studies and code samples available upon request due to client confidentiality and private repositories.*</sub>
 
 ---
 
-## Skills & Technologies
+## 🧰 Skills & Technologies
 
 **Languages & Frameworks:**  
 Go, JavaScript, TypeScript, Dart, Flutter, React, Node.js, Django, Laravel, PHP, Java, Python, GraphQL
@@ -53,12 +59,13 @@ Git, Xcode, VS Code, WordPress, TensorFlow
 
 ---
 
-## Connect
+## 📬 Connect
 
-- 🌐 [mujadidnaeem.com](https://mujadidnaeem.com)
-- 📧 [contact@mujadidnaeem.com](mailto:contact@mujadidnaeem.com)
-- [LinkedIn](https://linkedin.com/in/mmujadidnaeem) | [Twitter (X)](https://x.com/mmujadidnaeem)
+<a href="https://mujadidnaeem.com" target="_blank"><img src="https://img.shields.io/badge/Website-22272e?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:contact@mujadidnaeem.com"><img src="https://img.shields.io/badge/Email-22272e?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mmujadidnaeem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/mmujadidnaeem" target="_blank"><img src="https://img.shields.io/badge/Twitter(X)-22272e?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ---
 
-*Let’s build something impactful together.*
+<em>Let’s build something impactful together.</em>
